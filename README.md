@@ -45,7 +45,7 @@ Review or replace Hollywood by H. Textiles and Shanghai Baida, and prioritize ce
 
 ## Files in this repository
 - `fabric_defect_dashboard.pbix`: the Power BI report (open in Power BI Desktop)
-- `dashboard.pdf`: PDF export of all pages
+- `dashboard.pdf`: PDF export of all pages ([Download the PDF](https://github.com/msandhiya124-cmyk/fabric-defect-diagnostic-dashboard/raw/main/dashboard.pdf))
 
 ## How to open the report
 Download `fabric_defect_dashboard.pbix` and open it in Power BI Desktop (free, Windows only).
